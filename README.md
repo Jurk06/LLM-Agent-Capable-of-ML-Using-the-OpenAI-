@@ -41,3 +41,5 @@ Before using this agent, ensure you have the following:
 * Python 3.8+ : Install Python from python.org .
 * OpenAI API Key : Obtain your API key from OpenAI .
 * Dependencies : Install the required libraries using pip.
+
+https://github.com/Jurk06/LLM-Agent-Capable-of-ML-Using-the-OpenAI-.git
